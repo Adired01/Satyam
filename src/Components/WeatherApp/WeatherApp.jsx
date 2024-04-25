@@ -1,13 +1,14 @@
 import React from 'react'  
 import './WeatherApp.css'
 
-import search_icon from "../Asset Folder/search.png";
-import clear_icon  from  "../Asset Folder/cloud_9766189.png";
-import snow_icon from "../Asset Folder/snow.png";
-import drizzle_icon from "../Asset Folder/rainy_7226910.png";
-import humidity_icon from "../Asset Folder/humidity.png";
-import wind_icon from "../Asset Folder/wind.png";
-import cloud_icon from "../Asset Folder/weather_11356921.png"
+//mport search_icon from "../Asset Folder/search.png";
+//import clear_icon  from  "../Asset Folder/cloud_9766189.png";
+//import snow_icon from "../Asset Folder/snow.png";
+//import drizzle_icon from "../Asset Folder/rainy_7226910.png";
+//import humidity_icon from "../Asset Folder/humidity.png";
+//import wind_icon from "../Asset Folder/wind.png";
+//import cloud_icon from "../Asset Folder/weather_11356921.png"
+import { clear } from '@testing-library/user-event/dist/clear';
 
 const WeatherApp = () => {
 
